@@ -1,3 +1,5 @@
+## StartupYar with Next JS
+
 This is a practice project I created to test how [StartupYar](https://www.startupyar.com/) goes with [Next.js](https://nextjs.org/). If I like it, I may end up using it in production. Let's see.
 
 ## Credits
