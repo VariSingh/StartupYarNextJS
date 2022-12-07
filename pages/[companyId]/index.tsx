@@ -32,7 +32,7 @@ const ProductList: React.FC<{
 export const getStaticPaths = async () => {
   return {
     paths: [{ params: { companyId: "got-the-idea" } }],
-    fallback: "blocking",
+    fallback: false,
   };
 };
 
